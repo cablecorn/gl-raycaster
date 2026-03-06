@@ -10,7 +10,7 @@ sudo dnf install glfw-devel mesa-libGL-devel gcc-c++ cmake
 cmake -B build -DCMAKE_BUILD_TYPE=Debug
 cmake --build build
 ./build/Raycaster
-```markdown
+```
 
 ## Dev Log
 
