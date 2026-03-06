@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/Raycaster.dir/link.d CMakeFiles/Raycaster.dir/src/main.cpp.o CMakeFiles/Raycaster.dir/src/gl.c.o -o Raycaster  /usr/lib64/libglfw.so.3.4 /usr/lib64/libGLX.so /usr/lib64/libOpenGL.so
